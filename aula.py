@@ -10,4 +10,4 @@ for x in range(10):
 
 main()
 
-print("fim")
+print(f'fim do programa {__main__}')
